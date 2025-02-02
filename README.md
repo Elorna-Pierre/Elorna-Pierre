@@ -1,4 +1,4 @@
-Hello There 👋 Welcome to my GitHub profile
+Hello There 👋 Welcome To My Github Profile
 
 
 - 👋 I’m @Elorna-Pierre
