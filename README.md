@@ -5,10 +5,6 @@
 - 👀 <ins>I’m interested in<ins>:
   
     -Health Informatics & Digital Health
-  
-    -Content Creation (tech, healthcare informatics)
-
-    -Technology & Digital Transformation in Healthcare
 
     -Business & Entrepreneurship
 
