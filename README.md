@@ -1,8 +1,8 @@
-Hello There 👋 Welcome To My Github Profile
+<ins>**Hello There 👋 Welcome To My Github Profile**<ins>
 
 
-- 👋 I’m @Elorna-Pierre
-- 👀 I’m interested in:
+- 👋 I’m Elorna Pierre
+- 👀 <ins>I’m interested in<ins>:
   
     -Health Informatics & Digital Health
   
@@ -15,7 +15,7 @@ Hello There 👋 Welcome To My Github Profile
     -Lifelong Learning
   
     
-- 🌱 I’m currently learning:
+- 🌱 <ins>I’m currently learning<ins>:
 
     -📊 Data Analytics & Visualization: Exploring Python, SQL, and Tableau for healthcare insights
 
@@ -26,14 +26,14 @@ Hello There 👋 Welcome To My Github Profile
     -💼 Business & Entrepreneurship: Merging technology, business, and healthcare to drive innovation
 
   
-- 💞️ I’m looking to collaborate on:
+- 💞️ <ins>I’m looking to collaborate on<ins>:
 
     -Healthcare Data Analytics Projects: Analyzing real-world healthcare datasets to improve patient outcomes
 
     -Digital Health Innovations: Developing tech solutions for better healthcare access and longevity
   
   
-- 📫 How to reach me:
+- 📫 <ins>How to reach me<ins>:
   
     -Email: elliepierre17@gmail.com
 
